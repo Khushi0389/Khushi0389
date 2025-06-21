@@ -9,10 +9,11 @@
 ### 🌟 My Key Projects
 
 - 📘 **[DailyLog](https://github.com/Khushi0389/DailyLog)** – A journaling Spring Boot app  
-- 📱 **[TeachTrack](https://github.com/Khushi0389/TeachTrack)** – Android student record app  
+- 📱 **[TeachTrack](https://github.com/Khushi0389/TeachTrack)** – Android student record app
+- ⚙️ **[cpp-http-server](https://github.com/Khushi0389/cpp-http-server)** – C++ HTTP server from scratch
 - 🌐 **[SnapSocial](https://github.com/Khushi0389/SnapSocial)** – Social media app with daily tips  
 - 🌱 **[SmartPlant](https://github.com/Khushi0389/SmartPlant)** – IoT-based plant monitor  
-- ⚙️ **[cpp-http-server](https://github.com/Khushi0389/cpp-http-server)** – C++ HTTP server from scratch
+
 
 ---
 
