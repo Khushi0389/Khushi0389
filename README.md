@@ -23,6 +23,18 @@
 
 ---
 
+### 🏆 Certifications & Achievements
+
+- 🟢 HackerRank **Problem Solving (Intermediate)**
+- 🟢 HackerRank **SQL (Advanced)**
+- 🟢 HackerRank **Software Engineer Certificate**
+- 🟢 HackerRank **Rest API(Intermediate)**
+- 💡 Regular problem-solving on HackerRank
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/khushigupta10857)
+
+
+
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khushi0389&show_icons=true&theme=default)
