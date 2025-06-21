@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Khushi Gupta!
 
-<!--
-**Khushi0389/Khushi0389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Tech CSE @ NIT Bhopal  
+💻 Passionate Developer | Android | Java | C++ | ML  
+🚀 Building apps that solve real problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 My Key Projects
+
+- 📘 **[DailyLog](https://github.com/Khushi0389/DailyLog)** – A journaling Spring Boot app  
+- 📱 **[TeachTrack](https://github.com/Khushi0389/TeachTrack)** – Android student record app  
+- 🌐 **[SnapSocial](https://github.com/Khushi0389/SnapSocial)** – Social media app with daily tips  
+- 🌱 **[SmartPlant](https://github.com/Khushi0389/SmartPlant)** – IoT-based plant monitor  
+- ⚙️ **[cpp-http-server](https://github.com/Khushi0389/cpp-http-server)** – C++ HTTP server from scratch
+
+---
+
+### 💻 Tech Stack
+
+`Java` `Spring Boot` `Android` `MySQL` `Firebase` `React Native`  
+`C++` `Python` `Node.js` `Git` `HTML` `CSS` `JavaScript`
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khushi0389&show_icons=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Khushi0389&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi0389&layout=compact)
+
+---
+
+### 📫 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/khushi-gupta-844195300)  
+📧 khushigupta10857@gmail.com
