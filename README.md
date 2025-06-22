@@ -35,15 +35,6 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/khushigupta10857)
 
 
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khushi0389&show_icons=true&theme=default)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Khushi0389&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi0389&layout=compact)
-
----
-
 ### 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/khushi-gupta-844195300)  
