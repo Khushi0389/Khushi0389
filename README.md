@@ -52,4 +52,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/khushi-gupta-844195300)  
 🌐 [**Portfolio Website**](https://khushi0389.github.io/My_Portfolio) 
+
 📧 khushigupta10857@gmail.com
