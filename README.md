@@ -34,6 +34,18 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+---
+
+### 📊 GitHub Stats
+
+<!-- GitHub overall stats -->
+![Khushi’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Khushi0389&show_icons=true&theme=tokyonight)
+
+<!-- Top languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi0389&layout=compact&theme=tokyonight)
+
+<!-- Streaks (optional) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khushi0389&theme=tokyonight)
 
 ---
 
