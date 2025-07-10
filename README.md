@@ -44,7 +44,6 @@
 <!-- Top languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi0389&layout=compact&theme=tokyonight)
 
-<!-- Streaks (optional) -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khushi0389&theme=tokyonight)
 
 ---
