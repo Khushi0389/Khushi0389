@@ -36,10 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<!-- GitHub overall stats -->
-![Khushi’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Khushi0389&show_icons=true&theme=tokyonight)
 
 <!-- Top languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi0389&layout=compact&theme=tokyonight)
